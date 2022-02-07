@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamshiva003
-- 👀 I’m interested in coding, Data science and ML, coding competitions
-- 🌱 I’m currently learning Data structures, python, c++, java, ML
+- 👀 I’m interested in App development, Data science and ML, coding competitions.
+- 🌱 I’m currently learning Data structures, python, c++, java, ML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email:shivu9887@gmail.com
 
