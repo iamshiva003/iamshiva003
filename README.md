@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamshiva003
+- 👋 Hi, I’m Shivakumar Patil
 - 👀 I’m interested in App development, Data science and ML, coding competitions.
 - 🌱 I’m currently learning Data structures, python, c++, java, ML.
 - 💞️ I’m looking to collaborate on ...
